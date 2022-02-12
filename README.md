@@ -1,6 +1,10 @@
+[![YouTube Video](https://i.ibb.co/5L4psMK/CRUD-Search-Sederhana-Menggunakan-Laravel-9-dan-Livewire-2.png)](https://youtu.be/hUmjgwyeZm0)
+
 # WIRECRUD 9
 
-WIRECRUD 9 adalah aplikasi CRUD + Search sederhana yang dibuat menggukana Laravel 9 dan Livewire 2. Terbuka jika ingin clone apliaksi sederhana ini untuk belajar, bisa ikuti cara-cara berikut ini.
+WIRECRUD 9 adalah aplikasi CRUD + Search sederhana yang dibuat menggukana Laravel 9 dan Livewire 2. Demo bisa dilihat di YouTube Developow Terbuka jika ingin clone apliaksi sederhana ini untuk belajar, bisa ikuti cara-cara berikut ini.
+
+Demo: [https://youtu.be/hUmjgwyeZm0](https://youtu.be/hUmjgwyeZm0)
 
 ## Clone
 
